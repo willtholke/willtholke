@@ -12,6 +12,12 @@
       <li>Basic HTML/CSS</li>
       <li>Bootstrap 4</li>
    </ul>
+   
+<h2>What I'm Studying Now:</h2>
+  <ul>
+      <li>JavaScript</li>
+      <li>jQuery</li>
+   </ul>
 
 <h3><a href="mailto:tholkewilliam@fhda.com?subject=Reaching Out From GitHub">Let's get in touch!</h3>
 <a href="https://www.linkedin.com/in/williametholke" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://open.spotify.com/user/skate.will"> <img align="left" alt="Will's Spotify" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /> </a>
