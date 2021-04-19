@@ -11,16 +11,16 @@
 <h2>Languages & Skills:</h2>
   <ul>
       <li>Python & Flask</li>
-      <li>HTML5 & Basic CSS</li>
+      <li>HTML5 & CSS</li>
       <li>Bootstrap 4</li>
   </ul>
-  
 
+<!--
 <h2>What I'm Studying Now:</h2>
   <ul>
       <li>JavaScript & jQuery</li>
       <li>CSS</li>
-  </ul>
+  </ul> -->
 
 <!-- Contact -->
 <h3><a href="mailto:tholkewilliam@fhda.com?subject=Reaching Out From GitHub">Let's get in touch!</a></h3> 
