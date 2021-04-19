@@ -15,12 +15,12 @@
       <li>Bootstrap 4</li>
   </ul>
   
-<!-- 
+
 <h2>What I'm Studying Now:</h2>
   <ul>
       <li>JavaScript & jQuery</li>
       <li>CSS</li>
-  </ul> -->
+  </ul>
 
 <!-- Contact -->
 <h3><a href="mailto:tholkewilliam@fhda.com?subject=Reaching Out From GitHub">Let's get in touch!</a></h3> 
