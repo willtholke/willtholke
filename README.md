@@ -17,7 +17,7 @@
 
 <h2>What I'm Studying Now:</h2>
   <ul>
-      <li>JavaScript, jQuery, & CSS for web dev.</li>
+      <li>JavaScript, jQuery, & CSS for web dev</li>
       <li>Machine learning in Python</li>
   </ul>
 
