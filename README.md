@@ -1,6 +1,6 @@
 <!-- Header & Intro -->
 <h1>Hi, I'm Will 👋</h1>
-<p>I'm new here, but I'll be making more contributions and creating larger projects as I learn more about programming.</p>
+<p>I'm new here, but I'll be making more contributions and creating larger projects as learn more in my CS classes at UC Berkeley.</p>
 
 <!-- Github ReadMe Stats – https://github.com/anuraghazra/github-readme-stats -->
 [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willtholke&hide_border=True&bg_color=0D1117&hide=prs,issues&show_icons=true&theme=nord)](https://github.com/willtholke/github-readme-stats)
