@@ -10,14 +10,14 @@
 <!-- Content -->
 <h2>Languages & Skills:</h2>
   <ul>
-      <li>Python & Flask</li>
-      <li>HTML5 & CSS</li>
-      <li>Bootstrap 4</li>
+      <li>Python</li>
+      <li>HTML5 & basic CSS</li>
+      <li>Bootstrapping</li>
   </ul>
 
 <h2>What I'm Studying Now:</h2>
   <ul>
-      <li>JavaScript, jQuery, & CSS for web dev</li>
+      <li>JavaScript, Flask, & CSS for web dev</li>
       <li>Machine learning in Python</li>
   </ul>
 
