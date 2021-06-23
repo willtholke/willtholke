@@ -8,7 +8,7 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willtholke&hide_border=True&bg_color=0D1117&hide=prs,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Content -->
-<h2>Languages & Skills:</h2>
+<!-- <h2>Languages & Skills:</h2>
   <ul>
       <li>Python</li>
       <li>HTML5 & basic CSS</li>
@@ -19,14 +19,14 @@
   <ul>
       <li>JavaScript, Flask, & CSS for web dev</li>
       <li>Machine learning in Python</li>
-  </ul>
+  </ul> -->
 
 <!-- Contact -->
 <h3><a href="mailto:tholkewilliam@fhda.com?subject=Reaching Out From GitHub">Let's get in touch!</a></h3> 
 
-<a href="https://open.spotify.com/user/skate.will">
+<!-- <a href="https://open.spotify.com/user/skate.will">
   <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" align="left" width="28px" alt="Spotify Logo">
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/williametholke" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
