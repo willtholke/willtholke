@@ -1,6 +1,6 @@
 <!-- Header & Intro -->
 <h1>Hi, I'm Will 👋</h1> 
-<p>I'm studying Computer Science and Environmental Economics & Policy at UC Berkeley. I'll be making more contributions and creating larger projects as I learn more about bridging the gap between computer science, economics, and climate change.
+<p>I'm studying Computer Science and Environmental Economics & Policy at UC Berkeley. I'll be making more contributions and creating larger projects as I learn more about bridging the gap between computer science and environmental economics.
 
 Feel free to connect with me on LinkedIn!</p>
 
