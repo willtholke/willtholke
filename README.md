@@ -1,6 +1,6 @@
 <!-- Header & Intro -->
 <h1>Hi, I'm Will 👋</h1> 
-<p>I'm studying Computer Science at UC Berkeley. I'll be making more contributions and creating larger projects as I learn more about bridging the gap between computer science and my other interests.
+<p>I'm studying Computer Science at UC Berkeley.
 
 Feel free to connect with me on LinkedIn!</p>
 
