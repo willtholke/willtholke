@@ -1,13 +1,14 @@
 <!-- Header & Intro -->
 <h1>Hi, I'm Will 👋</h1> 
-<p>I'm studying Computer Science at UC Berkeley.
+<p>I'm studying <b>Data Science</b> with an emphasis in <b>logic</b> at UC Berkeley.
 
 Feel free to connect with me on LinkedIn!</p>
 
 <!-- Github ReadMe Stats – https://github.com/anuraghazra/github-readme-stats -->
-<!-- [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willtholke&hide_border=True&bg_color=0D1117&hide=prs,issues&show_icons=true&theme=nord)](https://github.com/willtholke/github-readme-stats) -->
-<!-- GitHub Top Languages Stats - <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtholke&layout=compact&hide_border=true&card_width=250&bg_color=0D1117&title_color=80A0C0&text_color=FFFFFF&icon_color=87BFCF"> -->
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willtholke&hide_border=True&bg_color=0D1117&hide=prs,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willtholke&hide_border=True&bg_color=0D1117&hide=prs,issues&show_icons=true&theme=nord)](https://github.com/willtholke/github-readme-stats)
+
+<!-- GitHub Top Languages Stats - <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtholke&layout=compact&hide_border=true&card_width=250&bg_color=0D1117&title_color=80A0C0&text_color=FFFFFF&icon_color=87BFCF">
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willtholke&hide_border=True&bg_color=0D1117&hide=prs,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Content -->
 <!-- <h2>Languages & Skills:</h2>
