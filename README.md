@@ -1,8 +1,9 @@
 <!-- Header & Intro -->
 <h1>Hi, I'm Will 👋</h1> 
-<p>I'm studying <b>Data Science</b> with an emphasis in <b>logic</b> at UC Berkeley.
-
-Feel free to connect with me on LinkedIn!</p>
+<p>I'm studying <b>Data Science</b> with an emphasis in <b>logic</b> at UC Berkeley.</p>
+  
+<!-- 
+<p>Feel free to connect with me on LinkedIn!</p> -->
 
 <!-- Github ReadMe Stats – https://github.com/anuraghazra/github-readme-stats -->
 [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willtholke&hide_border=True&bg_color=0D1117&hide=prs,issues&show_icons=true&theme=nord)](https://github.com/willtholke/github-readme-stats)
