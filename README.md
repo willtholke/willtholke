@@ -1,6 +1,6 @@
 <!-- Header & Intro -->
 <h1>Hi, I'm Will 👋</h1> 
-<p>I'm studying <b>Data Science</b> with an emphasis in <b>logic</b> at UC Berkeley.</p>
+<p>I'm studying <b>Computer Science</> at UC Berkeley.</p>
   
 <!-- 
 <p>Feel free to connect with me on LinkedIn!</p> -->
